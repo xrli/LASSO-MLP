@@ -24,17 +24,25 @@ This repo contains the code and trained models for our paper *Estimation of stel
 
 ### Experimental data
 
--training data and test data
+-training data and test data：
+```
+DR820_30_唯一交叉匹配.csv
+  ```
 
 -estimation catalog
 
 
 ### Usage
+- preprocessing:
+
+  ```shell
+  python preprocessing.py
+  ```
 
 - Training a new model:
 
   ```shell
-  python training.py
+  python LASSO_MLP.py
   ```
 
 
