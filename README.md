@@ -40,7 +40,6 @@ LASSO-MLP.csv
   Jupyter Notebook LASSO_MLP.ipynb
   ```
 
-
 ### Citation
 
 
